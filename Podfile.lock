@@ -1,0 +1,12 @@
+PODS:
+  - PusherSwift (4.0.1)
+
+DEPENDENCIES:
+  - PusherSwift
+
+SPEC CHECKSUMS:
+  PusherSwift: 8249a1c3634943cf7e1e9a691468357d53ab7e5f
+
+PODFILE CHECKSUM: 53532721c27cceca7b25d1b2aceed07d25a36ccf
+
+COCOAPODS: 1.1.1
